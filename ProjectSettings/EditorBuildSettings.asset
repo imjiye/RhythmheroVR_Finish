@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 91dbc6e6b04450640942353c50043d05
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: fea8e5fcaf5f8564a9734d4d0b923678
+  - enabled: 1
+    path: Assets/Scenes/song/I don't Think so.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/song/Snap Shoot.unity
+    guid: 9ca13c98d2afb9a48bb2fd6fd7927387
+  - enabled: 1
+    path: Assets/Scenes/song/Super.unity
+    guid: 0e3c706b79ec8d3428f7361d54a4e9f1
+  - enabled: 1
+    path: Assets/Scenes/song/Maestro.unity
+    guid: bef2ca53aec0c4a41a2d5e36c552ae19
+  - enabled: 1
+    path: Assets/Scenes/song/Sticky.unity
+    guid: 0eca0678c20c5ad4fbccdb1e0304bfb4
+  - enabled: 1
+    path: Assets/Scenes/song/Drama.unity
+    guid: 50b8a964d7d56ab4b8e0d9e66bf5d7e0
+  - enabled: 1
+    path: Assets/Scenes/song/Armageddon.unity
+    guid: f5105b30617144747a32c8c03f58d1ca
+  - enabled: 1
+    path: Assets/Scenes/song/Supernova.unity
+    guid: 39a49ce0415fb9146a2c424a78ea2098
+  - enabled: 1
+    path: Assets/Scenes/song/Spot.unity
+    guid: 30f37c44efef41e4b8de02a074b7bdc4
+  - enabled: 1
+    path: Assets/Scenes/song/Speechless.unity
+    guid: df1706618d52db643b8f3326ff43da91
+  - enabled: 1
+    path: Assets/Scenes/song/Reflection.unity
+    guid: dfc163e0c84437f4c8f31855715cfa7c
+  - enabled: 1
+    path: Assets/Scenes/song/Let It Go.unity
+    guid: ca6946af9c91fa8448f880acef6ec030
+  - enabled: 1
+    path: Assets/Scenes/song/Homura.unity
+    guid: 4f176c8dd1bc2a94ab877c8f32a4c959
+  - enabled: 1
+    path: Assets/Scenes/song/Tanjiro no Uta.unity
+    guid: 4598f763dc391c54cb2b809d4f4ec7e2
+  - enabled: 1
+    path: Assets/Scenes/song/Betelgeuse.unity
+    guid: 788c9016eb7dd67458d45c1f88aaa902
+  - enabled: 1
+    path: Assets/Scenes/song/Beethoven Virus.unity
+    guid: 89f51a624cfa73e40ad6b1ce5ea92704
+  - enabled: 1
+    path: Assets/Scenes/song/He's a pirate.unity
+    guid: 0972d317de5635a45967c70b60a75387
+  - enabled: 1
+    path: Assets/Scenes/song/Yoon's Birthday.unity
+    guid: 799adb82abe49dd469dd792e5692af3b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c779cb7fe0338164a978f2278d38c3c4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3bf73d03fbefe0e4585b9601345d1414, type: 2}
